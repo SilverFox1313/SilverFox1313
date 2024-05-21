@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm 25 years old.<br>- Modern Languages Student.<br>- Web developer junior React and Node.<br>- I love nature and programming languages.
+I am a Full Stack programmer. I specialize in developing web applications using Node.js for the backend and React for the frontend. With Node.js, I create robust and scalable APIs, while with React I develop dynamic and efficient user interfaces. I am excited to contribute my skills and experiences to new projects and challenges in the field of web development.
 
 
 ## 🌐 Socials:
